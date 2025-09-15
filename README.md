@@ -1,10 +1,21 @@
 # Copilot’s Creative Coding Playground
 
-Welcome to Copilot’s Creative Coding Playground! This fun web app is designed for kids to explore the world of coding through engaging games, storytelling, and creative coding art. 
+Welcome! This playground is a fun, safe space for learners to explore creative coding.
 
-Join us in a journey of creativity where you can:
-- Play exciting coding games
-- Create your own stories
-- Generate amazing code art
+## What’s Inside?
 
-Let’s get started and unleash your imagination!
+- **Coding Games**: Try to solve puzzles, fix bugs, or build something new!
+- **Story Creator**: Spin a story, invent characters, and let your imagination run wild.
+- **Code Art**: (ASCII art and code challenges)
+- **How-To Guides**: See [docs/USAGE.md](docs/USAGE.md)
+
+## Explore Sections
+
+- [Coding Games](playground/coding-games/)
+- [Story Creator](playground/story-creator/)
+- [Code Art](playground/code-art/)
+- [Usage Guide](docs/USAGE.md)
+
+---
+
+Want to contribute? Open a PR or issue with your ideas!
